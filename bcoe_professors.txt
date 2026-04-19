@@ -1,0 +1,755 @@
+Name
+Department
+Phone
+Email
+Social Links
+Reza Abbaschian
+Distinguished Professor
+Mechanical Engineering Dept
+(951) 827-2942
+reza.abbaschian@ucr.edu
+Nael Abu-Ghazaleh
+Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+nael.ag@ucr.edu
+Amr Magdy
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+amr.ahmed@ucr.edu
+Bahman Anvari
+Professor of Bioengineering
+Bioengineering Dept
+(951) 827-5726
+bahman.anvari@ucr.edu
+Fatemeh Asgarinejad
+Electrical & Computer Eng Dept
+fatemeh.asgarinejad1@ucr.edu
+M. Salman Asif
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-2385
+salman.asif@ucr.edu
+Matthew J Barth
+Distinguished Professor & Assoc. Dean-Res/Grad Ed
+Electrical & Computer Eng Dept
+(951) 827-2992
+matthew.barth@ucr.edu
+Amey Bhangale
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+amey.bhangale@ucr.edu
+Bir Bhanu
+Distinguished Professor
+Electrical & Computer Eng Dept
+(951) 827-2918
+bir.bhanu@ucr.edu
+Philip L Brisk
+Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+philip.brisk@ucr.edu
+Mingyu Cai
+Assistant Professor
+Mechanical Engineering Dept
+mingyu.cai@ucr.edu
+Juhong Chen
+Assistant Professor
+Bioengineering Dept
+(951) 827-0262
+jchen@ucr.edu
+Zizhong Chen
+Professor
+Computer Science & Engineering Dept
+(951) 827-2403
+zizhong.chen@ucr.edu
+Xi Chen
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-9346
+xi.chen@ucr.edu
+Jia Chen
+Associate Professor of Teaching
+Electrical & Computer Eng Dept
+(951) 827-2484
+jia.chen@ucr.edu
+Ran Cheng
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-2261
+ran.cheng@ucr.edu
+Roman Chomko
+Associate Professor of Teaching
+Electrical & Computer Eng Dept
+(951) 827-7109
+roman.chomko@ucr.edu
+Evangelos Christidis
+Professor
+Computer Science & Engineering Dept
+(951) 827-2478
+evangelos.christidis@ucr.edu
+Marek Chrobak
+Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+marek.chrobak@ucr.edu
+David Cocker
+Professor & Chair
+Chemical Environ Engineering Dept
+(951) 827-2408
+david.cocker@ucr.edu
+Sinisa Coh
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-3375
+sinisa.coh@ucr.edu
+Don Collins
+Professor & Director of CE-CERT
+Chemical Environ Engineering Dept
+(951) 781-5611
+don.collins@ucr.edu
+Shane A Cybart
+Professor
+Electrical & Computer Eng Dept
+(951) 827-5448
+shane.cybart@ucr.edu
+Emiliano De Cristofaro
+Professor
+Computer Science & Engineering Dept
+emiliano.decristofaro@ucr.edu
+Yue Dong
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-0155
+yue.dong@ucr.edu
+Ke Du
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-2423
+ke.du@ucr.edu
+Ahmed Eldawy
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5654
+ahmed.eldawy@ucr.edu
+Mona Eskandari
+Assistant Professor
+Mechanical Engineering Dept
+(951) 827-9160
+mona.eskandari@ucr.edu
+Michail Faloutsos
+Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+michalis.faloutsos@ucr.edu
+Kevin J Freedman
+Associate Professor
+Bioengineering Dept
+(951) 827-4028
+kevin.freedman@ucr.edu
+Thomas M Fryer
+MSOL Lecturer
+BCOE MS Online ENGR Program
+(951) 827-5830
+thomas.fryer@ucr.edu
+Alex Greaney
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-2884
+peter.greaney@ucr.edu
+William H Grover
+Associate Professor
+Bioengineering Dept
+(951) 827-4311
+william.grover@ucr.edu
+Yan Gu
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+yan.gu@ucr.edu
+Basak Guler
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-2484
+basak.guler@ucr.edu
+Jia Guo
+Associate Professor
+Bioengineering Dept
+(951) 827-9164
+jia.guo@ucr.edu
+Juchen Guo
+Professor & Chair of MSE Program
+Chemical Environ Engineering Dept
+(951) 827-6472
+juchen.guo@ucr.edu
+Rajiv Gupta
+Distinguished Professor & Assoc. Dean for Academic Personnel
+Computer Science & Engineering Dept
+(951) 827-2558
+rajiv.gupta@ucr.edu
+Elaine D Haberer
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-7174
+elaine.haberer@ucr.edu
+Kavan Hazeli
+Professor
+Mechanical Engineering Dept
+(951) 827-2415
+kavan.hazeli@ucr.edu
+Xiaoping P Hu
+Distinguished Professor and Chair
+Bioengineering Dept
+(951) 827-2925
+xiaoping.p.hu@ucr.edu
+Yingbo Hua
+Distinguished Professor
+Electrical & Computer Eng Dept
+(951) 827-2853
+yingbo.hua@ucr.edu
+Eunjeong Hyeon
+Assistant Professor
+Mechanical Engineering Dept
+eunjeong.hyeon@ucr.edu
+Trent Jaeger
+Professor
+Computer Science & Engineering Dept
+trent.jaeger@ucr.edu
+Tao Jiang
+Distinguished Professor
+Computer Science & Engineering Dept
+(951) 827-2991
+tao.jiang@ucr.edu
+Robert Jinkerson
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-2271
+robert.jinkerson@ucr.edu
+Heejung Jung
+Professor
+Mechanical Engineering Dept
+(951) 827-2262
+heejung.jung@ucr.edu
+Ioannis Karamouzas
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+ioannis.karamouzas@ucr.edu
+Georgios Karavalakis
+Professor
+Chemical Environ Engineering Dept
+(951) 827-8516
+georgios.karavalakis@ucr.edu
+Konstantinos Karydis
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-6132
+konstantinos.karydis@ucr.edu
+Eamonn J Keogh
+Distinguished Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+eamonn.keogh@ucr.edu
+Hyoseung Kim
+Associate Professor & Computer Engineering Program Chair
+Electrical & Computer Eng Dept
+(951) 827-2390
+hyoseung@ucr.edu
+Allan Knight
+Assistant Professor of Teaching
+Computer Science & Engineering Dept
+(951) 827-5639
+allan.knight@ucr.edu
+Elena Kokkoni
+Assistant Professor
+Bioengineering Dept
+(951) 827-9166
+elena.kokkoni@ucr.edu
+Srikanth V Krishnamurthy
+Professor & Vice Chair for Academic Personnel
+Computer Science & Engineering Dept
+(951) 827-2348
+srikanth.krishnamurthy@ucr.edu
+Roger K Lake
+Professor & ECE Vice Chair
+Electrical & Computer Eng Dept
+(951) 827-2122
+roger.lake@ucr.edu
+Kaveh Laksari
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-5834
+kaveh.laksari1@ucr.edu
+Paea LePendu
+Associate Professor of Teaching
+Computer Science & Engineering Dept
+(951) 827-5639
+paea.lependu@ucr.edu
+Chung-Hao Lee
+Associate Professor
+Bioengineering Dept
+(951) 827-4203
+chunghao.lee@ucr.edu
+Bingyao Li
+Assistant Professor
+Computer Science & Engineering Dept
+bingyao.li@ucr.edu
+Weizi Li
+Assistant Professor of Teaching
+Computer Science & Engineering Dept
+weizi.li@ucr.edu
+Jiachen Li
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-3058
+jiachen.li@ucr.edu
+Wantong Li
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-8308
+wantong.li@ucr.edu
+Yaofa Li
+Assistant Professor
+Mechanical Engineering Dept
+yaofa.li@ucr.edu
+Chen Li
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-5842
+chen.li@ucr.edu
+Jiayu Liao
+Professor of Bioengineering
+Bioengineering Dept
+(951) 827-6240
+jiayu.liao@ucr.edu
+Jay Lim
+Assistant Professor
+Computer Science & Engineering Dept
+jay.lim@ucr.edu
+Ruoqian Lin
+Assistant Professor
+Mechanical Engineering Dept
+ruoqian.lin@ucr.edu
+Huinan Hannah Liu
+Professor and Assoc. Dean for Student Academic Affairs
+Bioengineering Dept
+(951) 827-2944
+huinan.liu@ucr.edu
+Fudong Liu
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-2423
+fudong.liu@ucr.edu
+Jinyong Liu
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-1481
+jinyong.liu@ucr.edu
+Haizhou Liu
+Professor
+Chemical Environ Engineering Dept
+(951) 827-2076
+haizhou.liu@ucr.edu
+Ming Liu
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-6317
+ming.liu@ucr.edu
+Cong Liu
+Professor
+Electrical & Computer Eng Dept
+cong.liu@ucr.edu
+Jianlin Liu
+Professor
+Electrical & Computer Eng Dept
+(951) 827-7131
+jianlin.liu@ucr.edu
+Stefano Lonardi
+Professor & Vice Chair of Undergraduate Education
+Computer Science & Engineering Dept
+(951) 827-5639
+stefano.lonardi@ucr.edu
+Christopher Lynch
+BCOE Dean & Professor
+BCOE Deans Office Dept
+(951) 827-6374
+christopher.lynch@ucr.edu
+Lorenzo Mangolini
+Professor
+Mechanical Engineering Dept
+(951) 827-5872
+lorenzo.mangolini@ucr.edu
+Arameh Masoumi
+Assistant Professor of Teaching
+Bioengineering Dept
+arameh.masoumi@ucr.edu
+Salvador Mayoral
+Associate Professor of Teaching
+Mechanical Engineering Dept
+salvador.mayoral@ucr.edu
+Rob McKee
+Assistant Professor of Teaching
+Bioengineering Dept
+(951) 827-4914
+robert.mckee@ucr.edu
+Yujie Men
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-1019
+yujie.men@ucr.edu
+Tamar Mentzel
+Assistant Professor
+Mechanical Engineering Dept
+(951) 827-5834
+tamar.mentzel@ucr.edu
+Younjin Min
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-6077
+younjin.min@ucr.edu
+Ahmad M Foroutaghe
+Assistant Professor of Teaching
+Mechanical Engineering Dept
+ahmad.mohammadpanahforoutaghe@ucr.edu
+Amir-Hamed Mohsenian-Rad
+Professor & Bourns Family Faculty Fellow
+Electrical & Computer Eng Dept
+(951) 827-2387
+hamed.mohsenian-rad@ucr.edu
+Joshua T Morgan
+Associate Professor
+Bioengineering Dept
+(951) 827-6253
+joshua.morgan@ucr.edu
+Jin Nam, PhD
+Professor of Bioengineering
+Bioengineering Dept
+(951) 827-2064
+jin.nam@ucr.edu
+Iman Noshadi
+Associate Professor
+Bioengineering Dept
+(951) 827-4303
+iman.noshadi2@ucr.edu
+Erfan Nozari
+Assistant Professor
+Mechanical Engineering Dept
+(951) 827-5830
+erfan.nozari@ucr.edu
+Mihrimah Ozkan
+Professor
+Electrical & Computer Eng Dept
+(951) 827-2900
+mihri.ozkan@ucr.edu
+Cengiz Ozkan
+Professor
+Mechanical Engineering Dept
+(951) 827-5016
+cengiz.ozkan@ucr.edu
+Giulia Palermo
+Professor
+Bioengineering Dept
+(951) 827-4303
+giulia.palermo@ucr.edu
+Evangelos Papalexakis
+Professor
+Computer Science & Engineering Dept
+(951) 827-6244
+evangelos.papalexakis@ucr.edu
+Boris H Park
+Associate Professor of Bioengineering
+Bioengineering Dept
+(951) 827-5188
+hyle.park@ucr.edu
+Markus Petters
+Professor
+Chemical Environ Engineering Dept
+(951) 827-2423
+markus.petters@ucr.edu
+Zhiyun Qian
+Professor & Vice Chair for Graduate Education
+Computer Science & Engineering Dept
+(951) 827-6438
+zhiyun.qian@ucr.edu
+Hang Qiu
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-6051
+hang.qiu@ucr.edu
+Bhargav Rallabandi
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-9163
+venkataramabhargav.rallabandi@ucr.edu
+Kadangode K Ramakrishnan
+Distinguished Professor
+Computer Science & Engineering Dept
+(951) 827-2480
+kadangode.ramakrishnan@ucr.edu
+Masaru P Rao
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-5870
+masaru.rao@ucr.edu
+Jonathan Realmuto
+Assistant Professor
+Mechanical Engineering Dept
+(951) 827-6381
+jonathan.realmuto@ucr.edu
+Shaolei Ren
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-2260
+shaolei.ren@ucr.edu
+Wei Ren
+Professor
+Electrical & Computer Eng Dept
+(951) 827-6204
+wei.ren@ucr.edu
+Silas Richelson
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+silas.richelson@ucr.edu
+Victor G Rodgers
+Professor
+Bioengineering Dept
+(951) 827-6241
+victor.rodgers@ucr.edu
+Amit K Roy Chowdhury
+Professor and UC Presidential Chair
+Electrical & Computer Eng Dept
+(951) 827-7886
+amit.roychowdhury@ucr.edu
+Amanda M Rupiper
+Assistant Professor of Teaching
+Chemical Environ Engineering Dept
+(951) 827-2408
+amanda.rupiper@ucr.edu
+Elaheh Sadredini
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+elaheh.sadredini@ucr.edu
+Howard Salis
+Professor
+Chemical Environ Engineering Dept
+howard.salis@ucr.edu
+Mariam Salloum
+Associate Professor of Teaching
+Computer Science & Engineering Dept
+(951) 827-5639
+mariam.salloum@ucr.edu
+Vishwanath Saragadam
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-2484
+vishwans@ucr.edu
+Craig Schroeder
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-2536
+craig.schroeder@ucr.edu
+Christian R Shelton
+Professor & Chair
+Computer Science & Engineering Dept
+(951) 827-2554
+christian.shelton@ucr.edu
+Jun Sheng
+Assistant Professor
+Mechanical Engineering Dept
+(951) 827-6257
+jun.sheng@ucr.edu
+Zhouxing Shi
+Assistant Professor
+Computer Science & Engineering Dept
+zhouxing.shi@ucr.edu
+Tamar T Shinar
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5015
+tamar.shinar@ucr.edu
+Chengyu Song
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+chengyu.song@ucr.edu
+Igor Spasojevic
+Assistant Professor
+Electrical & Computer Eng Dept
+igor.spasojevic@ucr.edu
+Manu Sridharan
+Professor
+Computer Science & Engineering Dept
+(951) 827-9348
+manu.sridharan@ucr.edu
+Thomas Stahovich
+Professor
+Mechanical Engineering Dept
+(951) 827-7719
+thomas.stahovich@ucr.edu
+Yihan Sun
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-2614
+yihan.sun@ucr.edu
+Zhaowei Tan
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+ztan@ucr.edu
+Sheldon Tan
+Professor
+Electrical & Computer Eng Dept
+(951) 827-5143
+sheldon.tan@ucr.edu
+Hung-Wei Tseng
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-9347
+hungwei.tseng@ucr.edu
+Vassilis Tsotras
+Distinguished Professor
+Computer Science & Engineering Dept
+(951) 827-2888
+vassilis.tsotras@ucr.edu
+Hideaki Tsutsui
+Professor
+Mechanical Engineering Dept
+(951) 827-2444
+hideaki.tsutsui@ucr.edu
+Ertem Tuncel
+Professor & Chair of Electrical and Computer Engineering
+Electrical & Computer Eng Dept
+(951) 827-7718
+ertem.tuncel@ucr.edu
+Kambiz Vafai
+Distinguished Professor
+Mechanical Engineering Dept
+(951) 827-2135
+kambiz.vafai1@ucr.edu
+Shahab Vahdat
+Assistant Professor
+Bioengineering Dept
+shahabev@ucr.edu
+Sundararajan Venkatadriagaram
+Associate Professor of Teaching
+Mechanical Engineering Dept
+(951) 827-2446
+sundararajan.venkatadriagaram@ucr.edu
+Akula Venkatram
+Distinguished Professor
+Mechanical Engineering Dept
+(951) 827-2195
+akula.venkatram@ucr.edu
+Greg Ver Steeg
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+gregory.versteeg@ucr.edu
+Valentine I Vullev
+Professor of Bioengineering
+Bioengineering Dept
+(951) 827-6239
+valentine.vullev@ucr.edu
+Luat T Vuong
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-9162
+luat.vuong@ucr.edu
+Mingxun (Ming) Wang
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+mingxun.wang@ucr.edu
+Albert Z Wang
+Professor
+Electrical & Computer Eng Dept
+(951) 827-2555
+albert.wang@ucr.edu
+Neftali Watkinson
+Assistant Professor of Teaching
+Computer Science & Engineering Dept
+(951) 827-2623
+neftali.watkinsonmedina@ucr.edu
+Ian R Wheeldon
+Professor
+Chemical Environ Engineering Dept
+(951) 827-2471
+ian.wheeldon@ucr.edu
+Richard Wilson
+Associate Professor
+Mechanical Engineering Dept
+(951) 827-3374
+richard.wilson@ucr.edu
+Daniel Wong
+Associate Professor
+Electrical & Computer Eng Dept
+(951) 827-2986
+daniel.wong@ucr.edu
+Jianzhong Wu
+Professor
+Chemical Environ Engineering Dept
+(951) 827-2413
+jianzhong.wu@ucr.edu
+Tingting Xiang
+Assistant Professor
+Bioengineering Dept
+(951) 827-1482
+tingting.xiang2@ucr.edu
+Guanshui Xu
+Professor & Department of Mechanical Engineering Chair
+Mechanical Engineering Dept
+(951) 827-2497
+guanshui.xu@ucr.edu
+Ruoxue Yan
+Associate Professor
+Chemical Environ Engineering Dept
+(951) 827-2242
+ruoxue.yan@ucr.edu
+Heng Yin
+Professor
+Computer Science & Engineering Dept
+(951) 827-6437
+heng.yin@ucr.edu
+Nanpeng Yu
+Professor
+Electrical & Computer Eng Dept
+(951) 827-3688
+nanpeng.yu@ucr.edu
+Michael R Zachariah
+Distinguished Professor
+Chemical Environ Engineering Dept
+(951) 827-9157
+michael.zachariah@ucr.edu
+Dmytro V. Zagrebelnyy
+Assistant Professor of Teaching
+Material Sci Engr Pgm Dept
+(951) 827-3392
+dmytro.zagrebelnyy@ucr.edu
+Jiamin Zhang
+Assistant Professor of Teaching
+Chemical Environ Engineering Dept
+(951) 827-6238
+jiamin.zhang@ucr.edu
+Qian Zhang
+Assistant Professor
+Computer Science & Engineering Dept
+(951) 827-5639
+qian.zhang@ucr.edu
+Zhijia Zhao
+Associate Professor
+Computer Science & Engineering Dept
+(951) 827-2993
+zhijia.zhao@ucr.edu
+Yinglun Zhu
+Assistant Professor
+Electrical & Computer Eng Dept
+(951) 827-2484
+yinglun.zhu@ucr.edu
+Yuanhang Zhu
+Assistant Professor
+Mechanical Engineering Dept
+yuanhang.zhu@ucr.edu

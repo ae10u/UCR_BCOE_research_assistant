@@ -1,0 +1,14 @@
+[theme]
+# A vibrant Amber/Gold for buttons to replace the stock red/blue
+primaryColor = "#F59E0B" 
+
+# A deep slate/navy background (looks much softer than pure black)
+backgroundColor = "#0F172A" 
+
+# Slightly lighter slate for input boxes and sidebars
+secondaryBackgroundColor = "#1E293B" 
+
+# Crisp off-white text for high readability
+textColor = "#F8FAFC" 
+
+font = "sans serif"
